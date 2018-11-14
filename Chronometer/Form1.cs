@@ -135,7 +135,7 @@ namespace Chronometer
                     minutes++;
                     if (minutes >= 60){
                         minutes = 0;
-                        hours = ++;
+                        hours++;
                     }
                 }
             }
